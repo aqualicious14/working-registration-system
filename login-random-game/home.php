@@ -85,7 +85,7 @@
                 <br>
                 <input type="submit" name="gsubmit" id="submit" class="btn" value="Submit" >
                 <br><br>
-                <input type="submit" name="reset" id="reset" class="btn" value="Reset" >
+                <input type="submit" name="reset" id="reset" class="btn" value="Refresh" >
                 <br><br>
                 <input type="submit" name="logout" id="logout" class="btn" value="Logout" >
             </form>
